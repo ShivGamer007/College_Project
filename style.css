@@ -1,0 +1,61 @@
+*{
+    font-family: serif;
+    background-color: aqua;
+}
+
+#container{
+    
+    width:95vw;
+    margin:auto;
+}
+
+#college{
+    margin-top:10px;
+}
+
+.heads{
+    color: black;
+}
+
+.collegen{
+    font-weight:bold;
+    text-align: center;
+    color: blue;
+    text-shadow:1px 1px orange;
+}
+
+.info{
+    color: red;
+    font-weight:bold;
+}
+    
+#details{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    margin-top:30px;
+}
+
+.page{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+    width:100%;
+    height:500px;
+    border-bottom:2px solid gray;
+}
+.page1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+    width:100%;
+    height:500px;
+    
+}
+
+.outro{
+    text-align: center;
+}
